@@ -6,5 +6,11 @@ void printhello(){
 }
 int main(){
     printhello();
+    printuniverse();
     return 0;
+}
+void printuniverse();
+void printuniverse(){
+    printf("hello universe");
+    return;
 }
