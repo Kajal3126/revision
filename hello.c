@@ -32,7 +32,7 @@ void check(){
 void nitin();
 void nitin(){
     printf("nitin");
-    return;
+    return; //return void because their is no value to return
 }
 void poonam();
 void poonam(){
