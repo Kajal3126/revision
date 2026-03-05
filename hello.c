@@ -29,3 +29,13 @@ void check(){
     printf("check");
     return;
 }
+void nitin();
+void nitin(){
+    printf("nitin");
+    return;
+}
+void poonam();
+void poonam(){
+    prinf("poonam");
+    return;
+}
