@@ -19,3 +19,13 @@ void printcall(){
 printf("universe call");
 return;
 }
+void printkajal();
+void printkajal(){
+    printf("kajal");
+    return;
+}
+void check();
+void check(){
+    printf("check");
+    return;
+}
