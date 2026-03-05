@@ -14,3 +14,8 @@ void printuniverse(){
     printf("hello universe");
     return;
 }
+void printcall();
+void printcall(){
+printf("universe call");
+return;
+}
